@@ -5,7 +5,7 @@ O projeto DevLinks-NFT é um sistema repositório de links que permite aos usuá
 
 ## Link do projeto
 O projeto DevLinks-NFT pode ser acessado no GitHub através do seguinte link: [DevLinks-NFT]
-> https://github.com/euviktors/DevLinks-NFT
+> https://github.com/euviktors/DevLinks-NFT <br>
 > Ver site: https://euviktors.github.io/DevLinks-NFT/
 
 ## Tecnologias utilizadas
