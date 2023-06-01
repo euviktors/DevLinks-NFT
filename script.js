@@ -8,9 +8,9 @@ function toggleMode() {
     // substituir a imagem
     if (html.classList.contains("light")) {
       // se tiver light mode, adicionar a imagem light
-      img.setAttribute("src", "./assets/NFT02.png")
+      img.setAttribute("src", "./NFT02.png")
     } else {
       // set tiver sem light mode, manter a imagem normal
-      img.setAttribute("src", "./assets/NFT01.png")
+      img.setAttribute("src", "./NFT01.png")
     }
   }
